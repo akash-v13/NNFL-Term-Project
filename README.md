@@ -9,4 +9,5 @@ The objective of the project was to read through the paper "[Unpaired Image-to-I
         4.Apply the model to images of another painting dataset such as Monet or Cezanne and show results
         5.Calculate the per-pixel and per-class accuracy for the above
 
-The details regarding the files can be found in the readme.txt file in the repository.
+The contents of the repository are:  
+        -NNFL_Paper13.ppt - contain the powerpoint presentation for this term paper 
